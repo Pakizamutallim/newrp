@@ -1,0 +1,33 @@
+#div1{
+    color: aquamarine;
+
+}
+#div2{
+    color: aquamarine;
+}
+ .item1 { 
+    display: inline-block;
+    width: 45%;
+    height: 200px;
+    background-color: red;
+ }
+ .item2 { 
+    display: inline-block;
+    width: 45%; 
+    height: 200px;
+    background-color: blue;
+ }
+ .item3 {
+     
+    display: inline-block;
+    width: 30%;
+    height: 90px;
+    background-color: yellow;
+ }
+ .item4 {
+    
+    display: inline-block;
+    width: 30%;
+    height: 90px;
+    background-color: yellow;
+ }
